@@ -224,11 +224,6 @@ padding-top: 9rem;
   right: 0;
 }
 
-.popular__card swiper-slide{
-  justify-content: space-around;
-  display: flex;
-}
-
 /* Change background header */
 .scroll-header{
   border-radius: 0 0 1rem 1rem;
@@ -830,7 +825,7 @@ transform: scale(1.2);
   grid-template-columns: repeat(3, max-content);
   justify-content: center;
   align-items: center;
-  gap: 4rem;
+  gap: 5rem;
   padding-bottom: 2rem;
 }
 
